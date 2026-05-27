@@ -1,0 +1,17 @@
+{
+  "id": "RF_Filter/HFCN-1810:HFCN-1810",
+  "name": "HFCN-1810",
+  "library": "RF_Filter",
+  "file": "RF_Filter.kicad_symdir/HFCN-1810.kicad_sym",
+  "description": "1810MHz 50 Ohm Passive High Pass Filter, FV1206",
+  "datasheet": "https://www.minicircuits.com/pdfs/HFCN-1810+.pdf",
+  "keywords": "Mini-Circuits high pass filter",
+  "footprint": "Filter:Filter_Mini-Circuits_FV1206",
+  "extends": "HFCN-440",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-filter@master/parts/HFCN-1810/",
+  "part_path": "parts/HFCN-1810",
+  "symbol_file": "parts/HFCN-1810/HFCN-1810.kicad_sym",
+  "source_library": "RF_Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:09.663Z"
+}

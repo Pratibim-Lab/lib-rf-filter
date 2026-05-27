@@ -1,0 +1,17 @@
+{
+  "id": "RF_Filter/B3715:B3715",
+  "name": "B3715",
+  "library": "RF_Filter",
+  "file": "RF_Filter.kicad_symdir/B3715.kicad_sym",
+  "description": "Bandpass Filter, 869MHz, SAW filter 6-pin",
+  "datasheet": "https://www.mouser.de/datasheet/2/842/epcos16633_1-2300371.pdf",
+  "keywords": "SAW Filter 869 bandpass",
+  "footprint": "Filter:Filter_SAW_Epcos_DCC6C_3x3mm",
+  "extends": "TA0970B",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-filter@master/parts/B3715/",
+  "part_path": "parts/B3715",
+  "symbol_file": "parts/B3715/B3715.kicad_sym",
+  "source_library": "RF_Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:09.445Z"
+}

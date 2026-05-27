@@ -1,0 +1,17 @@
+{
+  "id": "RF_Filter/BFCN-3600:BFCN-3600",
+  "name": "BFCN-3600",
+  "library": "RF_Filter",
+  "file": "RF_Filter.kicad_symdir/BFCN-3600.kicad_sym",
+  "description": "3300-3900MHz 50 Ohm Passive Band Pass Filter, FV1206",
+  "datasheet": "https://www.minicircuits.com/pdfs/BFCN-3600+.pdf",
+  "keywords": "Mini-Circuits band pass filter",
+  "footprint": "Filter:Filter_Mini-Circuits_FV1206",
+  "extends": "BFCN-1445",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-filter@master/parts/BFCN-3600/",
+  "part_path": "parts/BFCN-3600",
+  "symbol_file": "parts/BFCN-3600/BFCN-3600.kicad_sym",
+  "source_library": "RF_Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:09.547Z"
+}

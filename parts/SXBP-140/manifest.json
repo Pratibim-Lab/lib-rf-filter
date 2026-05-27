@@ -1,0 +1,17 @@
+{
+  "id": "RF_Filter/SXBP-140:SXBP-140",
+  "name": "SXBP-140",
+  "library": "RF_Filter",
+  "file": "RF_Filter.kicad_symdir/SXBP-140.kicad_sym",
+  "description": "Bandpass Filter, 130 to 150 MHz, 50 Ohm, Mini-Circuits HF1139",
+  "datasheet": "https://www.minicircuits.com/pdfs/SXBP-140+.pdf",
+  "keywords": "Mini-Circuits Band-Pass Filter",
+  "footprint": "RF_Mini-Circuits:Mini-Circuits_HF1139_LandPatternPL-230",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-filter@master/parts/SXBP-140/",
+  "part_path": "parts/SXBP-140",
+  "symbol_file": "parts/SXBP-140/SXBP-140.kicad_sym",
+  "source_library": "RF_Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:10.294Z"
+}

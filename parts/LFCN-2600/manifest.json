@@ -1,0 +1,17 @@
+{
+  "id": "RF_Filter/LFCN-2600:LFCN-2600",
+  "name": "LFCN-2600",
+  "library": "RF_Filter",
+  "file": "RF_Filter.kicad_symdir/LFCN-2600.kicad_sym",
+  "description": "2600MHz 50 Ohm Passive Low Pass Filter, FV1206",
+  "datasheet": "https://www.minicircuits.com/pdfs/LFCN-2600+.pdf",
+  "keywords": "Mini-Circuits low pass filter",
+  "footprint": "Filter:Filter_Mini-Circuits_FV1206",
+  "extends": "LFCN-80",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-filter@master/parts/LFCN-2600/",
+  "part_path": "parts/LFCN-2600",
+  "symbol_file": "parts/LFCN-2600/LFCN-2600.kicad_sym",
+  "source_library": "RF_Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:10.014Z"
+}

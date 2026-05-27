@@ -1,0 +1,17 @@
+{
+  "id": "RF_Filter/LFCN-2250D:LFCN-2250D",
+  "name": "LFCN-2250D",
+  "library": "RF_Filter",
+  "file": "RF_Filter.kicad_symdir/LFCN-2250D.kicad_sym",
+  "description": "2250MHz 50 Ohm Passive Low Pass Filter, DC capable, FV1206",
+  "datasheet": "https://www.minicircuits.com/pdfs/LFCN-2250D+.pdf",
+  "keywords": "Mini-Circuits low pass filter",
+  "footprint": "Filter:Filter_Mini-Circuits_FV1206",
+  "extends": "LFCN-80",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-filter@master/parts/LFCN-2250D/",
+  "part_path": "parts/LFCN-2250D",
+  "symbol_file": "parts/LFCN-2250D/LFCN-2250D.kicad_sym",
+  "source_library": "RF_Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:09.976Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "RF_Filter/RBPF-246:RBPF-246",
+  "name": "RBPF-246",
+  "library": "RF_Filter",
+  "file": "RF_Filter.kicad_symdir/RBPF-246.kicad_sym",
+  "description": "Bandpass Filter, 236 to 265 MHz, 50 Ohm, Mini-Circuits CK605",
+  "datasheet": "https://www.minicircuits.com/pdfs/RBPF-246+.pdf",
+  "keywords": "Bandpass Filter",
+  "footprint": "RF_Mini-Circuits:Mini-Circuits_CK605_LandPatternPL-012",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-filter@master/parts/RBPF-246/",
+  "part_path": "parts/RBPF-246",
+  "symbol_file": "parts/RBPF-246/RBPF-246.kicad_sym",
+  "source_library": "RF_Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:10.275Z"
+}

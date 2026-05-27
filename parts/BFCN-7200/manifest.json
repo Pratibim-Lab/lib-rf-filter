@@ -1,0 +1,17 @@
+{
+  "id": "RF_Filter/BFCN-7200:BFCN-7200",
+  "name": "BFCN-7200",
+  "library": "RF_Filter",
+  "file": "RF_Filter.kicad_symdir/BFCN-7200.kicad_sym",
+  "description": "7100-7300MHz 50 Ohm Passive Band Pass Filter, FV1206-4",
+  "datasheet": "https://www.minicircuits.com/pdfs/BFCN-7200+.pdf",
+  "keywords": "Mini-Circuits band pass filter",
+  "footprint": "Filter:Filter_Mini-Circuits_FV1206-4",
+  "extends": "BFCN-1860",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-filter@master/parts/BFCN-7200/",
+  "part_path": "parts/BFCN-7200",
+  "symbol_file": "parts/BFCN-7200/BFCN-7200.kicad_sym",
+  "source_library": "RF_Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:09.575Z"
+}

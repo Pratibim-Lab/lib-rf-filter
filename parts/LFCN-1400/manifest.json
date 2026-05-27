@@ -1,0 +1,17 @@
+{
+  "id": "RF_Filter/LFCN-1400:LFCN-1400",
+  "name": "LFCN-1400",
+  "library": "RF_Filter",
+  "file": "RF_Filter.kicad_symdir/LFCN-1400.kicad_sym",
+  "description": "1400MHz 50 Ohm Passive Low Pass Filter, FV1206",
+  "datasheet": "https://www.minicircuits.com/pdfs/LFCN-1400+.pdf",
+  "keywords": "Mini-Circuits low pass filter",
+  "footprint": "Filter:Filter_Mini-Circuits_FV1206",
+  "extends": "LFCN-80",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-filter@master/parts/LFCN-1400/",
+  "part_path": "parts/LFCN-1400",
+  "symbol_file": "parts/LFCN-1400/LFCN-1400.kicad_sym",
+  "source_library": "RF_Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:09.852Z"
+}

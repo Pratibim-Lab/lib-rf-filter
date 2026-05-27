@@ -1,0 +1,17 @@
+{
+  "id": "RF_Filter/SCHF-31:SCHF-31",
+  "name": "SCHF-31",
+  "library": "RF_Filter",
+  "file": "RF_Filter.kicad_symdir/SCHF-31.kicad_sym",
+  "description": "High Pass Filter, 31 to 1500 MHz, 50 Ohm, Mini-Circuits YY161",
+  "datasheet": "https://www.minicircuits.com/pdfs/SCHF-31+.pdf",
+  "keywords": "highpass filter rf",
+  "footprint": "RF_Mini-Circuits:Mini-Circuits_YY161_LandPatternPL-049",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-filter@master/parts/SCHF-31/",
+  "part_path": "parts/SCHF-31",
+  "symbol_file": "parts/SCHF-31/SCHF-31.kicad_sym",
+  "source_library": "RF_Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:10.283Z"
+}

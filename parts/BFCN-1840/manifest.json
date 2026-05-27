@@ -1,0 +1,17 @@
+{
+  "id": "RF_Filter/BFCN-1840:BFCN-1840",
+  "name": "BFCN-1840",
+  "library": "RF_Filter",
+  "file": "RF_Filter.kicad_symdir/BFCN-1840.kicad_sym",
+  "description": "1750-1930MHz 50 Ohm Passive Band Pass Filter, FV1206",
+  "datasheet": "https://www.minicircuits.com/pdfs/BFCN-1840+.pdf",
+  "keywords": "Mini-Circuits band pass filter",
+  "footprint": "Filter:Filter_Mini-Circuits_FV1206",
+  "extends": "BFCN-1445",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-filter@master/parts/BFCN-1840/",
+  "part_path": "parts/BFCN-1840",
+  "symbol_file": "parts/BFCN-1840/BFCN-1840.kicad_sym",
+  "source_library": "RF_Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:09.478Z"
+}

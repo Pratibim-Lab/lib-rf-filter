@@ -1,0 +1,17 @@
+{
+  "id": "RF_Filter/BFCN-8350:BFCN-8350",
+  "name": "BFCN-8350",
+  "library": "RF_Filter",
+  "file": "RF_Filter.kicad_symdir/BFCN-8350.kicad_sym",
+  "description": "8250-8450MHz 50 Ohm Passive Band Pass Filter, FV1206-4",
+  "datasheet": "https://www.minicircuits.com/pdfs/BFCN-8350+.pdf",
+  "keywords": "Mini-Circuits band pass filter",
+  "footprint": "Filter:Filter_Mini-Circuits_FV1206-4",
+  "extends": "BFCN-1860",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-filter@master/parts/BFCN-8350/",
+  "part_path": "parts/BFCN-8350",
+  "symbol_file": "parts/BFCN-8350/BFCN-8350.kicad_sym",
+  "source_library": "RF_Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:09.600Z"
+}

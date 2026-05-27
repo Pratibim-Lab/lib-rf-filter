@@ -1,0 +1,17 @@
+{
+  "id": "RF_Filter/RLP-30:RLP-30",
+  "name": "RLP-30",
+  "library": "RF_Filter",
+  "file": "RF_Filter.kicad_symdir/RLP-30.kicad_sym",
+  "description": "Low Pass Filter, DC to 30 MHz, 50 Ohm, Mini-Circuits GP1212",
+  "datasheet": "https://www.minicircuits.com/pdfs/RLP-30+.pdf",
+  "keywords": "Low Pass Filter",
+  "footprint": "RF_Mini-Circuits:Mini-Circuits_GP1212_LandPatternPL-176",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-filter@master/parts/RLP-30/",
+  "part_path": "parts/RLP-30",
+  "symbol_file": "parts/RLP-30/RLP-30.kicad_sym",
+  "source_library": "RF_Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:10.279Z"
+}

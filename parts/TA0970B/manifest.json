@@ -1,0 +1,17 @@
+{
+  "id": "RF_Filter/TA0970B:TA0970B",
+  "name": "TA0970B",
+  "library": "RF_Filter",
+  "file": "RF_Filter.kicad_symdir/TA0970B.kicad_sym",
+  "description": "Bandpass Filter, 1090MHz, SAW filter 6-pin",
+  "datasheet": "https://www.golledge.com/media/3785/mp08167.pdf",
+  "keywords": "SAW Filter 1090 bandpass MP08167",
+  "footprint": "Filter:Filter_SAW-6_3.8x3.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-filter@master/parts/TA0970B/",
+  "part_path": "parts/TA0970B",
+  "symbol_file": "parts/TA0970B/TA0970B.kicad_sym",
+  "source_library": "RF_Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:10.307Z"
+}

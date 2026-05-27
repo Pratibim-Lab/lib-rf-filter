@@ -1,0 +1,17 @@
+{
+  "id": "RF_Filter/LFCN-722:LFCN-722",
+  "name": "LFCN-722",
+  "library": "RF_Filter",
+  "file": "RF_Filter.kicad_symdir/LFCN-722.kicad_sym",
+  "description": "7200MHz 50 Ohm Passive Low Pass Filter, FV1206",
+  "datasheet": "https://www.minicircuits.com/pdfs/LFCN-722+.pdf",
+  "keywords": "Mini-Circuits low pass filter",
+  "footprint": "Filter:Filter_Mini-Circuits_FV1206",
+  "extends": "LFCN-80",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-filter@master/parts/LFCN-722/",
+  "part_path": "parts/LFCN-722",
+  "symbol_file": "parts/LFCN-722/LFCN-722.kicad_sym",
+  "source_library": "RF_Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:10.236Z"
+}

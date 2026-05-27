@@ -1,0 +1,17 @@
+{
+  "id": "RF_Filter/SXBP-202:SXBP-202",
+  "name": "SXBP-202",
+  "library": "RF_Filter",
+  "file": "RF_Filter.kicad_symdir/SXBP-202.kicad_sym",
+  "description": "Bandpass Filter, 198 to 206 MHz, 50 Ohm, Mini-Circuits HF1139",
+  "datasheet": "https://www.minicircuits.com/pdfs/SXBP-202+.pdf",
+  "keywords": "bandpass filter",
+  "footprint": "RF_Mini-Circuits:Mini-Circuits_HF1139_LandPatternPL-230",
+  "extends": "SXBP-140",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-filter@master/parts/SXBP-202/",
+  "part_path": "parts/SXBP-202",
+  "symbol_file": "parts/SXBP-202/SXBP-202.kicad_sym",
+  "source_library": "RF_Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:10.298Z"
+}

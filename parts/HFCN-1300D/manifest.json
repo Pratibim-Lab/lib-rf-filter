@@ -1,0 +1,17 @@
+{
+  "id": "RF_Filter/HFCN-1300D:HFCN-1300D",
+  "name": "HFCN-1300D",
+  "library": "RF_Filter",
+  "file": "RF_Filter.kicad_symdir/HFCN-1300D.kicad_sym",
+  "description": "1300MHz 50 Ohm Passive High Pass Filter, DC capable, FV1206",
+  "datasheet": "https://www.minicircuits.com/pdfs/HFCN-1300D+.pdf",
+  "keywords": "Mini-Circuits high pass filter",
+  "footprint": "Filter:Filter_Mini-Circuits_FV1206",
+  "extends": "HFCN-440",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-filter@master/parts/HFCN-1300D/",
+  "part_path": "parts/HFCN-1300D",
+  "symbol_file": "parts/HFCN-1300D/HFCN-1300D.kicad_sym",
+  "source_library": "RF_Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:09.639Z"
+}

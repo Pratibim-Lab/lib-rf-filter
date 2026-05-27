@@ -1,0 +1,17 @@
+{
+  "id": "RF_Filter/LPF-B0R3:LPF-B0R3",
+  "name": "LPF-B0R3",
+  "library": "RF_Filter",
+  "file": "RF_Filter.kicad_symdir/LPF-B0R3.kicad_sym",
+  "description": "Low Pass Filter, DC to 0.3 MHz, 50 Ohm, Mini-Circuits HZ1198",
+  "datasheet": "https://www.minicircuits.com/pdfs/LPF-B0R3+.pdf",
+  "keywords": "low pass filter",
+  "footprint": "RF_Mini-Circuits:Mini-Circuits_HZ1198_LandPatternPL-247",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-rf-filter@master/parts/LPF-B0R3/",
+  "part_path": "parts/LPF-B0R3",
+  "symbol_file": "parts/LPF-B0R3/LPF-B0R3.kicad_sym",
+  "source_library": "RF_Filter.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:12:10.269Z"
+}
